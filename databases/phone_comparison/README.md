@@ -52,4 +52,4 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-![Пример страницы](res/catalog.png)
+![Пример страницы](../Dja3/res/catalog.png)
